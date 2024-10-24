@@ -1,8 +1,8 @@
 ---
-action_label: Read More &rarr;
+action_label: Learn more &rarr;
 action_link: /about
 action_type: text
-description: Going from an Excel spreadsheet or a Google survey to compelling + useful insights is a challenge! <b>nested patterns</b> helps you navigate that gap. <br><br> We provide <b>targeted services</b>, <b>for-hire labor</b>, and <b>individual coaching</b> to help your next data-driven publication, grant proposal, outreach campaign, or personal project shine.
+description: We provide targeted services and individual coaching to help your next data-driven publication, grant proposal, outreach campaign, or data story project shine. <br> <br> Our special sauce? Compelling data storytelling + geeking out about messy data.
 image_left: true
 images:
 - img/nest.jpg
@@ -10,7 +10,7 @@ show_action_link: true
 show_social_links: true
 subtitle: helping you find stories in messy data
 text_align_left: true
-title: nested patterns data consultancy
+title: nested patterns
 type: home
 ---
 
