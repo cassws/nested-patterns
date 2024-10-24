@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# ignore public site rendering
+public/
+
+# ignore DS Store
+.DS_Store
